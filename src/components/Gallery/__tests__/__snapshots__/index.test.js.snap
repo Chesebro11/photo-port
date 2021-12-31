@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Gallery is rendering matches snapshot 1`] = `
+exports[`Gallery component matches snapshot 1`] = `
 <DocumentFragment>
   <section>
     <h1
@@ -9,7 +9,7 @@ exports[`Gallery is rendering matches snapshot 1`] = `
       Portraits
     </h1>
     <p>
-      portraits of people in my life
+      Portraits of people in my life
     </p>
     <div>
       <div
